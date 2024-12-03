@@ -1,0 +1,7 @@
+{
+    "id": "000",
+    "title": "Test article",
+    "authors": ["Oliver Schlüter"],
+    "published_at": "2024-12-03",
+    "tags": ["test-tag", "fun"]
+}
