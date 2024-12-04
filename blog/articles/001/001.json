@@ -1,0 +1,8 @@
+{
+    "id": "002",
+    "title": "Der 1te Artikel",
+    "summary": "Dies ist eine Beschreibung",
+    "authors": ["Oliver Schlüter"],
+    "published_at": "2024-12-03T15:48:47.373232+01:00",
+    "tags": ["fun", "cool"]
+}
