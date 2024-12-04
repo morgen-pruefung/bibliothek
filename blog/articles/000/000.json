@@ -2,6 +2,6 @@
     "id": "000",
     "title": "Test article",
     "authors": ["Oliver Schlüter"],
-    "published_at": "2024-12-03",
+    "published_at": "2024-12-03T15:04:05Z07:00",
     "tags": ["test-tag", "fun"]
 }
