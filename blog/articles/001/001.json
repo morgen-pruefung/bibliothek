@@ -1,8 +1,8 @@
 {
-    "id": "002",
-    "title": "Der 1te Artikel",
-    "summary": "Dies ist eine Beschreibung",
+    "id": "001",
+    "title": "Hallo, ich bin Oliver",
+    "summary": "In diesen Artikel stellt sich Oliver Schlüter - ein Gründer von Morgen-Pruefung.de vor und erzählt über seine Motivation von Morgen-Pruefung.de",
     "authors": ["Oliver Schlüter"],
-    "published_at": "2024-12-04T15:48:47.373232+01:00",
-    "tags": ["fun", "cool"]
+    "published_at": "2024-12-04T19:00:00.000000+01:00",
+    "tags": ["gründer", "vorstellung"]
 }
