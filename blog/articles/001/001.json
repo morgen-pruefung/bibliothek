@@ -1,8 +1,8 @@
 {
     "id": "001",
-    "title": "Hallo, ich bin Oliver",
-    "summary": "In diesen Artikel stellt sich Oliver Schlüter - ein Gründer von Morgen-Pruefung.de vor und erzählt über seine Motivation von Morgen-Pruefung.de",
+    "title": "Der Morgen-Pruefung.de Blog",
+    "summary": "In diesen Artikel wirst du erfahren, welche Themen dich in diesen Blog erwarten werden und wie die Zukunft dieses Blogs aussieht.",
     "authors": ["Oliver Schlüter"],
-    "published_at": "2024-12-04T19:00:00.000000+01:00",
-    "tags": ["vorstellung"]
+    "published_at": "2024-12-06T16:30:00.000000+01:00",
+    "tags": ["morgen-pruefung"]
 }
