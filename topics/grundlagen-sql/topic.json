@@ -1,5 +1,6 @@
 {
     "id": "grundlagen-sql",
     "name": "Grundlagen SQL",
-    "summary": "Basic SELECT, INSERT, UPDATE und DELETE Anweisungen"
+    "summary": "Basic SELECT, INSERT, UPDATE und DELETE Anweisungen",
+    "category": "Datenbanken"
 }
