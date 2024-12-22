@@ -8,4 +8,7 @@ Im Ordner `blog-articles` sind alle Blog-Artikel, die auf der Website angezeigt 
 Im Ordner `blog-articles-scheduled` sind alle Blog-Artkel, die bald erscheinen werden.
 
 ## Themen
-Im Ordner `topics` sind alle Themen, die momentan verfügbar sind
+Im Ordner `topics` sind alle Themen, die momentan verfügbar sind.
+
+## Prüfungen
+Im Ordner `exams` sind alle Prüfungen.
