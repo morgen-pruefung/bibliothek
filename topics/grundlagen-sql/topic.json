@@ -1,6 +1,6 @@
 {
-    "id": "sql-dql",
-    "name": "SQL - Data Query Language",
-    "summary": "Basic SELECT Anweisungen",
+    "id": "grundlagen-sql",
+    "name": "Grundlagen SQL",
+    "summary": "Basic SELECT, INSERT, UPDATE und DELETE Anweisungen",
     "category": "Datenbanken"
 }
