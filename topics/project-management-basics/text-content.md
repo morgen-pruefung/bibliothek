@@ -1,6 +1,6 @@
 Projektmanagement ist eine entscheidende Disziplin in fast allen Branchen und Sektoren, die das Ziel verfolgt, Projekte effizient zu planen, umzusetzen und abzuschließen. Ein Projekt wird oft als eine einmalige Unternehmung definiert, die ein spezifisches Ergebnis oder Produkt erbringt – sei es physischer, intellektueller oder sogar immaterieller Natur. Im Gegensatz zu wiederholbaren Geschäftsprozessen hat jedes Projekt einen klar abgegrenzten Anfang und ein definiertes Ende.
 
-#### Grundlegende Konzepte im Projektmanagement
+### Grundlegende Konzepte im Projektmanagement
 
 **Projekt vs. Prozess:** Ein wesentlicher Unterschied zwischen einem Projekt und einem Prozess ist die Wiederholbarkeit. Während Prozesse kontinuierlich oder in regelmäßigen Abständen ablaufen, sind Projekte einmalige Initiativen mit einem klaren Start- und Endpunkt.
 
@@ -10,7 +10,7 @@ Projektmanagement ist eine entscheidende Disziplin in fast allen Branchen und Se
 
 **Stakeholder-Management:** Ein weiteres wichtiges Konzept im Projektmanagement ist die Identifikation und Kommunikation mit allen Stakeholdern – den Personen oder Gruppen, deren Interessen vom Projekt betroffen sind. Eine effektive Stakeholder-Kommunikation kann wesentlich zum Projekterfolg beitragen.
 
-#### Der Lebenszyklus eines Projekts
+### Der Lebenszyklus eines Projekts
 
 Der Lebenszyklus eines Projekts gliedert sich typischerweise in fünf Hauptphasen: Initiation, Planung, Ausführung, Überwachung/Steuerung und Abschluss. Jede Phase hat spezifische Ziele und Aktivitäten.
 
