@@ -1,0 +1,6 @@
+{
+    "id": "sql-group-and-aggregrate",
+    "name": "Gruppierung und Aggregatfunktionen in SQL",
+    "summary": "Gruppieren und Aggregrieren von Datensätze in SQL",
+    "category": "Datenbanken"
+}

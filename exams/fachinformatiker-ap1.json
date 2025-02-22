@@ -8,6 +8,8 @@
         "sql-data-manipulation",
         "sql-indexes",
         "sql-backup-and-recovery",
-        "sql-permissions"
+        "sql-permissions",
+        "sql-group-and-aggregrate",
+        "db-normalization"
     ]
 }
