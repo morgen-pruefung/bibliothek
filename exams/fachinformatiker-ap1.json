@@ -2,7 +2,7 @@
     "id": "fachinformatiker-ap1",
     "name": "Fachinformatiker | Teil 1",
     "topic_ids": [
-        "grundlagen-sql",
-        "sql-dql"
+        "sql-grundlagen",
+        "sql-select-basics"
     ]
 }
