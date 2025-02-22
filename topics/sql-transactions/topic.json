@@ -1,0 +1,6 @@
+{
+    "id": "sql-transactions",
+    "name": "Datenintegrität und Transaktionen in SQL",
+    "summary": "Die Verwendung von Transkationen zur erhaltung der Datenintegerität in SQL",
+    "category": "Datenbanken"
+}
