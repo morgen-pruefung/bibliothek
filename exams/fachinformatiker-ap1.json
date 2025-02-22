@@ -10,6 +10,8 @@
         "sql-backup-and-recovery",
         "sql-permissions",
         "sql-group-and-aggregrate",
-        "db-normalization"
+        "db-normalization",
+
+        "project-management-basics"
     ]
 }
