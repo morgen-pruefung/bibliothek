@@ -7,6 +7,7 @@
         "sql-select-joins",
         "sql-data-manipulation",
         "sql-indexes",
-        "sql-backup-and-recovery"
+        "sql-backup-and-recovery",
+        "sql-permissions"
     ]
 }

@@ -1,0 +1,6 @@
+{
+    "id": "sql-permissions",
+    "name": "Berechtigungen und Rollenmanagement in SQL",
+    "summary": "Zugriffsrechtsmanagements für SQL-Datenbanken",
+    "category": "Datenbanken"
+}
