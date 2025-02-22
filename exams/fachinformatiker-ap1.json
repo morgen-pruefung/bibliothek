@@ -6,6 +6,7 @@
         "sql-select-basics",
         "sql-select-joins",
         "sql-data-manipulation",
-        "sql-indexes"
+        "sql-indexes",
+        "sql-backup-and-recovery"
     ]
 }

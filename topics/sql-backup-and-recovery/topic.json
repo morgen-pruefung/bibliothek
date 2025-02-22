@@ -1,0 +1,6 @@
+{
+    "id": "sql-backup-and-recovery",
+    "name": "Backup und Recovery Strategien",
+    "summary": "Erstellung von Backup und Recovery Strategien für SQL-Datenbanken",
+    "category": "Datenbanken"
+}
