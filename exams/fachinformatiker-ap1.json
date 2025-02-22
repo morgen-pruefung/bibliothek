@@ -12,6 +12,7 @@
         "sql-group-and-aggregrate",
         "db-normalization",
 
-        "project-management-basics"
+        "project-management-basics",
+        "project-management-business-case"
     ]
 }
