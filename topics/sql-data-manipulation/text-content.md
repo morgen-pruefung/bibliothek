@@ -88,5 +88,3 @@ Beachten Sie, dass beim Ausführen einer `DELETE`-Anweisung ohne eine `WHERE`-Kl
 ## Fazit
 
 Die Datenmanipulation mit SQL über die Anweisungen `INSERT`, `UPDATE` und `DELETES` ist entscheidend für die Verwaltung von Inhalten innerhalb einer relationalen Datenbank. Mit diesen Werkzeugen können Sie sicherstellen, dass Ihre Datenbank aktuell, präzise und organisiert bleibt.
-
-In den nächsten Artikeln werden wir uns mit fortgeschritteneren Themen wie Transaktionen und Sicherheitsaspekten bei der Datenmanipulation befassen. Bleiben Sie dran!

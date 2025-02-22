@@ -66,5 +66,3 @@ Diese Subquery zählt alle Bestellungen für jeden einzelnen Kunden.
 ## Fazit
 
 JOINs und Subqueries sind mächtige Werkzeuge in SQL. JOINs ermöglichen die Kombination von Daten aus mehreren Tabellen, während Subqueries zusätzliche Flexibilität bieten, komplexe Abfragen zu erstellen. Diese Techniken erweitern Ihre Möglichkeiten zur Datenauswertung und -analyse erheblich.
-
-In den kommenden Artikeln werden wir tiefer in die Themen Datenmanipulation mit UPDATE- und DELETE-Anweisungen eintauchen sowie Sicherheitsaspekte von SQL behandeln. Bleiben Sie dran, um Ihr Wissen weiter zu vertiefen!

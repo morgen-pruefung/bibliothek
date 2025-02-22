@@ -72,5 +72,3 @@ In diesem Beispiel werden die Änderungen nach dem zweiten Update rückgängig g
 ## Fazit
 
 Transaktionen spielen eine wesentliche Rolle bei der Gewährleistung von Datenintegrität und -konsistenz in einer Datenbank. Durch den strategischen Einsatz von `COMMIT`, `ROLLBACK` und `SAVEPOINT` können Entwickler sicherstellen, dass ihre Anwendungen zuverlässig mit Transaktionen umgehen. Diese Werkzeuge bieten die Flexibilität, Fehler zu handhaben und Änderungen kontrolliert zu verwalten, was letztlich zur Stabilität und Zuverlässigkeit von Datenbankanwendungen beiträgt.
-
-In den kommenden Artikeln werden wir uns tiefergehend mit weiteren fortgeschrittenen Themen im Bereich der Datenbankadministration befassen. Bleiben Sie dran!
