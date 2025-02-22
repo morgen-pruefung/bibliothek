@@ -4,6 +4,7 @@
     "topic_ids": [
         "sql-grundlagen",
         "sql-select-basics",
-        "sql-select-joins"
+        "sql-select-joins",
+        "sql-data-manipulation"
     ]
 }

@@ -1,0 +1,6 @@
+{
+    "id": "sql-data-manipulation",
+    "name": "INSERT, UPDATE und DELETE",
+    "summary": "Manipulation von Daten mit INSERT, UPDATE und DELETE",
+    "category": "Datenbanken"
+}
