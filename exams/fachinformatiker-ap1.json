@@ -5,6 +5,7 @@
         "sql-grundlagen",
         "sql-select-basics",
         "sql-select-joins",
-        "sql-data-manipulation"
+        "sql-data-manipulation",
+        "sql-indexes"
     ]
 }
