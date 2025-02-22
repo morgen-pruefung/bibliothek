@@ -1,0 +1,6 @@
+{
+    "id": "sql-select-joins",
+    "name": "JOINs und Subqueries",
+    "summary": "Komplexere Abfragen mit JOINs und Subqueries",
+    "category": "Datenbanken"
+}
